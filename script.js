@@ -1,5 +1,5 @@
 function returnType(x) {
-    console.log(x)
+    console.log(x 'ababa')
     
 }
 returnType(13);
